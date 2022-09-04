@@ -8,19 +8,18 @@ Influenced by my mother, you'll always find me listening to rock, metal, and met
 
 <h2>Nerds Profile</h2>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cydnirn&theme=monokai)](https://git.io/streak-stats)
+
+![Cydnirn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cydnirn&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cydnirn&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Interested in:
 - Web Development (Fullstack) 📱
 - IoT 📡
 - Robotics 🤖 
 - Game Development 🎮
 - Cloud Engineering ⚙
-
-Have some understanding in:
-- HTML
-- CSS
-- JS
-- Python
-- Linux
 
 Currently Learning:
 - C#
