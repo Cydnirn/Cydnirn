@@ -12,7 +12,7 @@ Influenced by my mother, you'll always find me listening to rock, metal, and met
 
 ![Cydnirn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cydnirn&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cydnirn&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cydnirn&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Interested in:
 - Web Development (Fullstack) 📱
