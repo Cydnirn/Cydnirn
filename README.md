@@ -1,6 +1,6 @@
 <h1>"Memento Mori. Amor Fati"</h1>
 
-Born in the year 2004 AD to an upper-middle class family, developed a love for computers since I attend preschool
+Born in the year 2004 AD developed a love for computers since I attend preschool
 
 Currently still attending Vocational High School in Central Jakarta
 
