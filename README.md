@@ -1,4 +1,6 @@
-<h2>"He who is afraid of winter, shall not taste the warm of summer"</h2>
+```bash
+echo "He who is afraid of winter, shall not taste the warm of summer"
+```
 <h2>Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cydnirn&theme=monokai)](https://git.io/streak-stats)
