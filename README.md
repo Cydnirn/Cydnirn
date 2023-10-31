@@ -1,12 +1,5 @@
-<h1>"Memento Mori. Amor Fati"</h1>
-
-Born in the year 2004 AD developed a love for computers since I attend preschool
-
-Currently still attending Vocational High School in Central Jakarta
-
-Influenced by my mother, you'll always find me listening to rock, metal, and metalcore
-
-<h2>Nerds Profile</h2>
+<h2>"He who is afraid of winter, shall not taste the warm of summer"</h2>
+<h2>Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cydnirn&theme=monokai)](https://git.io/streak-stats)
 
