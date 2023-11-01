@@ -1,5 +1,5 @@
 ```bash
-echo "He who is afraid of winter, shall not taste the warm of summer"
+echo "He who is afraid of winter, shall not taste the warmth of summer"
 ```
 <h2>Stats</h2>
 
