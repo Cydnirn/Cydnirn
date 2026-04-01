@@ -15,6 +15,7 @@ echo "He who is afraid of winter, shall not taste the warmth of summer"
 ## Skills
 - **Languages**: TypeScript, C#, JavaScript
 - **Tools**: React, Node.js, .NET Core, Unity, AWS
+
 ![Top Languages](./profile/top-langs.svg)
 
 <!---
